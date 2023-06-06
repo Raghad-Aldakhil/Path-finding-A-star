@@ -1,5 +1,3 @@
-# CS 340 Project
-# CS 340 Project
 import heapq 
 import random
 import time
