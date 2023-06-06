@@ -11,7 +11,7 @@ In a grid, where diagonal movement is allowed with a cost of 1 or √2, the L∞
 This heuristic function provides a more accurate estimate of the actual cost required to reach the goal state when diagonal movements are allowed. </p>
 
 ## Visualization 
-
+For the search visualization, we used tkinter , which is a standard GUI library in Python that provides a set of tools for creating windows, buttons, canvas, and other graphical elements. In the code tkinter ,is used to create a window and a canvas widget to draw the maze. The Canvas widget is used to display rectangles representing the maze cells, with different colors for obstacles, start state, goal state, and the path.
 ![image](https://github.com/Raghad-Aldakhil/Path-finding-A-star/assets/121506944/b8fd43a8-f78d-4fa8-a031-6ce8bf130d24)
 
 
