@@ -25,6 +25,16 @@ For the search visualization, we used tkinter , which is a standard GUI library 
 ![image](https://github.com/Raghad-Aldakhil/Path-finding-A-star/assets/121506944/b8fd43a8-f78d-4fa8-a031-6ce8bf130d24)
 
 
+## Limitations 
+<ul>
+<li> the goal and initial states are fixed </li>.
+<li> this code will randomly generate test problems on grids of size 100 and 
+varying the percentage of obstacles from 10 to 90.</li>
+<li> the gui somtimes becomes irresponsive, if the the algorithms is searching for a path, or if the input was from 70 and above obstacles </li>
+<li> obsatcles are generated randomly based on the input percentage</li>
+
+  
+  
 
 
-
+</ul>
